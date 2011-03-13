@@ -1,0 +1,10 @@
+/*
+ * Displays a broken image placeholder and icon in Gecko based UAs
+ *
+ * https://developer.mozilla.org/en/CSS/-moz-force-broken-image-icon
+ */
+
+img
+{
+	-moz-force-broken-image-icon: 1;
+}

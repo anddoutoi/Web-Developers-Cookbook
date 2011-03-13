@@ -1,0 +1,8 @@
+/*
+ * Force viewport vertical scrollbar
+ */
+
+html
+{
+	overflow-y: scroll;
+}

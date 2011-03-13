@@ -1,0 +1,8 @@
+/*
+ * Suppress vertical scrollbar on <textarea>s in Trident based UAs
+ */
+
+textarea
+{
+	overflow: auto;
+} 

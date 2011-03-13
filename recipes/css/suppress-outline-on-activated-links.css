@@ -1,0 +1,10 @@
+/*
+ * Suppress outline on clicked links
+ *
+ * http://www.456bereastreet.com/archive/200910/remove_the_outline_from_links_on_active_only/ 
+ */
+
+a:active
+{
+	outline: 0;
+}

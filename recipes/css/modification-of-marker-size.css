@@ -1,0 +1,10 @@
+/*
+ * Modification of marker size in Gecko based UAs
+ *
+ * https://developer.mozilla.org/en/CSS/:-moz-list-bullet
+ */
+
+li::-moz-list-bullet
+{
+	font-size: 42px;
+}

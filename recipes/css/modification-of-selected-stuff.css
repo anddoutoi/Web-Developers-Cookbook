@@ -1,0 +1,16 @@
+/*
+ * Modification of highlighted (selected) stuff
+ * 
+ * https://developer.mozilla.org/en/CSS/::selection
+ */
+
+textarea::-moz-selection
+{
+	background-color: #F00;
+	color: #00F;
+}
+textarea::selection
+{
+	background-color: #F00;
+	color: #00F;
+}
