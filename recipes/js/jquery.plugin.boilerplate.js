@@ -3,7 +3,7 @@
 	/*
 	 * private members
 	 */
-	var PLUGIN_NAME = 'projeKtor',
+	var PLUGIN_NAME = 'nameOfPlugin',
 		defaultSettings = {},// settings set by the plugin developer, not modifiable in userland
 		topicalSettings = $.extend( {}, defaultSettings ),// make sure we can reset the default plugin settings
 		methods = {
